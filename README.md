@@ -27,3 +27,13 @@ amplitude - 2023 [[Descriptive](https://amplitude.com/explore/analytics/what-des
 **Interactive Visual Data Analysis**  
 *Christian Tominski and Heidrun Schumann*  
 A K Peters - 2020 [[libgen](https://libgen.rs/book/index.php?md5=F9A644E48831A356F697240145C585C2)]
+
+**Data Visualization: Exploring and Explaining with Data**  
+*Jeffrey D. Camm , James J. Cochran and Michael J. Fry*  
+Cengage Learning - 2022 [[libgen](https://libgen.rs/book/index.php?md5=F0BBF0673433EC635B450C3F2DA2C7B5)]
+
+## Dashboard
+
+**Information Dashboard Design: The Effective Visual Communication of Data**  
+*Few, Stephen*  
+O'Reilly Media - 2006 [[libgen](https://libgen.rs/book/index.php?md5=0DCB4DC6FBAF7EB862EFCCC0404759EB)]
