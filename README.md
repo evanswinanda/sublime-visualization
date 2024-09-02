@@ -14,21 +14,16 @@ Exde - 2009 [[link](https://exde.wordpress.com/wp-content/uploads/2009/03/crisp_
 ## Data Analytics
 
 **4 Types of Data Analytics to Improve Decision-Making**  
-*Alex Bekker*  
-scnsoft - 2017 [[link](https://www.scnsoft.com/data/4-types-of-data-analytics)]
+*Alex Bekker* | scnsoft - 2017 [[link](https://www.scnsoft.com/data/4-types-of-data-analytics)] 
+*Satish Chandra Gupta* | Medium - 2021 [[link](https://medium.com/towards-data-science/actionable-insights-from-descriptive-diagnostic-predictive-prescriptive-data-analytics-drivetrain-approach-f4e08828cc7)]
 
-**What is Descriptive Analytics?**  
+**What is Descriptive, Diagnostic, Predictive, Prescriptive Analytics?**  
 *Amplitude*  
-amplitude - 2023 [[link](https://amplitude.com/explore/analytics/what-descriptive-analytics)]
+amplitude - 2023 [[Descriptive](https://amplitude.com/explore/analytics/what-descriptive-analytics)] [[Diagnostic](https://amplitude.com/explore/analytics/what-diagnostic-analytics)] [[Predictive](https://amplitude.com/explore/analytics/what-predictive-analytics)] [[Prescriptive](https://amplitude.com/explore/analytics/what-prescriptive-analytics)]
 
-**What is Diagnostic Analytics?**  
-*Amplitude*  
-amplitude - 2023 [[link](https://amplitude.com/explore/analytics/what-diagnostic-analytics)]
 
-**What is Predictive Analytics?**  
-*Amplitude*  
-amplitude - 2023 [[link](https://amplitude.com/explore/analytics/what-predictive-analytics)]
+## Data Visualization
 
-**What is Prescriptive Analytics?**  
-*Amplitude*  
-amplitude - 2023 [[link](https://amplitude.com/explore/analytics/what-prescriptive-analytics)]
+**Interactive Visual Data Analysis**  
+*Christian Tominski and Heidrun Schumann*  
+A K Peters - 2020 [[libgen](https://libgen.rs/book/index.php?md5=F9A644E48831A356F697240145C585C2)]
