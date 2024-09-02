@@ -37,3 +37,11 @@ Cengage Learning - 2022 [[libgen](https://libgen.rs/book/index.php?md5=F0BBF0673
 **Information Dashboard Design: The Effective Visual Communication of Data**  
 *Few, Stephen*  
 O'Reilly Media - 2006 [[libgen](https://libgen.rs/book/index.php?md5=0DCB4DC6FBAF7EB862EFCCC0404759EB)]
+
+**Business Dashboards: A Visual Catalog for Design and Deployment**  
+*Rasmussen, Nils H. and Bansal, Manish and Chen, Claire Y.*  
+Wiley Publishing - 2009 [[libgen](https://libgen.rs/book/index.php?md5=6A0B985558F312F0C81C009D31B18AA1)]
+
+**Different types of dashboards: Operational, analytical, and strategic**  
+*Rao, Jaganadha*  
+ezdatamunch - 2022 [[link](https://ezdatamunch.com/operational-analytical-tactical-dashboards/)]
