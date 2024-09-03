@@ -12,6 +12,10 @@ My Self Research
 *Ali Arsanjani*  Medium - 2023 [[link](https://dr-arsanjani.medium.com/the-generative-ai-life-cycle-fb2271a70349)]
 *Jacinth Paul*  Program Strategy - 2024 [[link](https://www.programstrategyhq.com/post/generative-ai-project-lifecycle-stages)]
 
+**Data Mining For Dummies**  
+*Meta S. Brown*  
+Wiley- 2014 [[libgen](https://libgen.is/book/index.php?md5=EBF691CF5B494F9A0E7050295D4FF062)]
+
 
 ## Data Analytics
 
@@ -42,7 +46,9 @@ A K Peters - 2020 [[libgen](https://libgen.rs/book/index.php?md5=F9A644E48831A35
 *Jeffrey D. Camm , James J. Cochran and Michael J. Fry*  
 Cengage Learning - 2022 [[libgen](https://libgen.rs/book/index.php?md5=F0BBF0673433EC635B450C3F2DA2C7B5)]
 
-
+**Data Visualization for Dummies**  
+*Mico Yuk, Stephanie Diamond*  
+Wiley - 2014 [[libgen](https://libgen.rs/book/index.php?md5=6607593E7F087DE167002A521AD616E9)]
 
 ## Dashboard
 
