@@ -60,6 +60,14 @@ O'Reilly Media - 2006 [[libgen](https://libgen.rs/book/index.php?md5=0DCB4DC6FBA
 *Rasmussen, Nils H. and Bansal, Manish and Chen, Claire Y.*  
 Wiley Publishing - 2009 [[libgen](https://libgen.rs/book/index.php?md5=6A0B985558F312F0C81C009D31B18AA1)]
 
+**How colors in business dashboards affect users decision making**  
+*Palash Bera*  
+ACM - 2016 [[link](https://cacm.acm.org/research/how-colors-in-business-dashboards-affect-users-decision-making/)]
+
+**The Big Book of Dashboards: Visualizing Your Data Using Real-World Business Scenarios**  
+*Steve Wexler; Jeffrey Shaffer; Andy Cotgreave*  
+Wiley - 2017 [[libgen](https://libgen.is/book/index.php?md5=0C8D12A9B107DDFC530E8D0E0C42C0E8)]
+
 **Different types of dashboards: Operational, analytical, and strategic**  
 *Rao, Jaganadha*  
 ezdatamunch - 2022 [[link](https://ezdatamunch.com/operational-analytical-tactical-dashboards/)]
@@ -68,6 +76,4 @@ ezdatamunch - 2022 [[link](https://ezdatamunch.com/operational-analytical-tactic
 *Benjamin Bach and Euan Freeman and Alfie Abdul-Rahman and Cagatay Turkay and Saiful Khan and Yulei Fan and Min Chen*  
 arXiv - 2022 [[link](https://arxiv.org/pdf/2205.00757)]
 
-**How colors in business dashboards affect users decision making**  
-*Palash Bera*  
-ACM - 2016 [[link](https://cacm.acm.org/research/how-colors-in-business-dashboards-affect-users-decision-making/)]
+
