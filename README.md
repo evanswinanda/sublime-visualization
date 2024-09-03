@@ -64,4 +64,6 @@ ezdatamunch - 2022 [[link](https://ezdatamunch.com/operational-analytical-tactic
 *Benjamin Bach and Euan Freeman and Alfie Abdul-Rahman and Cagatay Turkay and Saiful Khan and Yulei Fan and Min Chen*  
 arXiv - 2022 [[link](https://arxiv.org/pdf/2205.00757)]
 
-
+**How colors in business dashboards affect users decision making**  
+*Palash Bera*  
+ACM - 2016 [[link](https://cacm.acm.org/research/how-colors-in-business-dashboards-affect-users-decision-making/)]
