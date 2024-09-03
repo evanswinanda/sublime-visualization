@@ -89,7 +89,14 @@ arXiv - 2024 [[arXiv](https://arxiv.org/abs/2403.06158)]
 
 ## LLM
 
-**Are LLMs ready for Visualization?**  
-*Pere-Pau Vazquez*  
-arXiv - 2024 [[arXiv](https://arxiv.org/abs/2403.06158)]
+**A Comprehensive Overview of Large Language Models**  
+*Humza Naveed, Asad Ullah Khan, Shi Qiu, Muhammad Saqib, Saeed Anwar, Muhammad Usman, Naveed Akhtar, Nick Barnes, Ajmal Mian*  
+arXiv - 2023 [[arXiv](https://arxiv.org/abs/2307.06435)]
 
+**Emerging Architectures for LLM Applications**  
+* Matt Bornstein and Rajko Radovanovic*  
+Andrressen - 2023 [[link](https://a16z.com/emerging-architectures-for-llm-applications/)]
+
+**The architecture of today’s LLM applications**  
+* Nicole Choi*  
+Github Blog - 2024 [[link](https://github.blog/ai-and-ml/llms/the-architecture-of-todays-llm-applications/)]
