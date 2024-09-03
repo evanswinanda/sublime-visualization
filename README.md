@@ -94,9 +94,9 @@ arXiv - 2024 [[arXiv](https://arxiv.org/abs/2403.06158)]
 arXiv - 2023 [[arXiv](https://arxiv.org/abs/2307.06435)]
 
 **Emerging Architectures for LLM Applications**  
-* Matt Bornstein and Rajko Radovanovic*  
+*Matt Bornstein and Rajko Radovanovic*  
 Andrressen - 2023 [[link](https://a16z.com/emerging-architectures-for-llm-applications/)]
 
 **The architecture of today’s LLM applications**  
-* Nicole Choi*  
+*Nicole Choi*  
 Github Blog - 2024 [[link](https://github.blog/ai-and-ml/llms/the-architecture-of-todays-llm-applications/)]
