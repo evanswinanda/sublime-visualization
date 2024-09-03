@@ -101,8 +101,21 @@ Andrressen - 2023 [[link](https://a16z.com/emerging-architectures-for-llm-applic
 *Nicole Choi*  
 Github Blog - 2024 [[link](https://github.blog/ai-and-ml/llms/the-architecture-of-todays-llm-applications/)]
 
+**Talking About Large Language Models**  
+*Murray Shanahan*  
+arXiv - 2022 [[arXiv](https://arxiv.org/abs/2212.03551)]
+
+**TnT-LLM: Text Mining at Scale with Large Language Models**  
+*Mengting Wan, Tara Safavi, Sujay Kumar Jauhar, Yujin Kim, Scott Counts, Jennifer Neville, Siddharth Suri, Chirag Shah, Ryen W White, Longqi Yang, Reid Andersen, Georg Buscher, Dhruv Joshi, Nagu Rangan*  
+arXiv - 2024 [[arXiv](https://arxiv.org/abs/2403.12173)]
+
+
 ## RAG FOR LLM
 
 **Retrieval-Augmented Generation for Large Language Models: A Survey**  
 *Yunfan Gao, Yun Xiong, Xinyu Gao, Kangxiang Jia, Jinliu Pan, Yuxi Bi, Yi Dai, Jiawei Sun, Meng Wang, Haofen Wang*  
 arXiv - 2023 [[arXiv](https://arxiv.org/abs/2312.10997)]
+
+**Self-Retrieval: Building an Information Retrieval System with One Large Language Model**  
+*Qiaoyu Tang, Jiawei Chen, Bowen Yu, Yaojie Lu, Cheng Fu, Haiyang Yu, Hongyu Lin, Fei Huang, Ben He, Xianpei Han, Le Sun, Yongbin Li*  
+arXiv - 2024 [[arXiv](https://arxiv.org/abs/2403.00801)]
