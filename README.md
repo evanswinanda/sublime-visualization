@@ -8,8 +8,8 @@ My Self Research
 Semanticscholar - 2000 [[link](https://www.semanticscholar.org/paper/CRISP-DM%3A-Towards-a-Standard-Process-Model-for-Data-Wirth-Hipp/48b9293cfd4297f855867ca278f7069abc6a9c24#citing-papers)]
 
 **a visual guide to CRISP-DM methodology**  
-*Nicole Leaper*  
-Exde - 2009 [[link](https://exde.wordpress.com/wp-content/uploads/2009/03/crisp_visualguide.pdf)]
+*Nicole Leaper*  Exde - 2009 [[link](https://exde.wordpress.com/wp-content/uploads/2009/03/crisp_visualguide.pdf)]
+*Nick Hotz*  Data Science - 2024 [[link](https://www.datascience-pm.com/crisp-dm-2/)]
 
 ## Data Analytics
 
