@@ -80,4 +80,10 @@ arXiv - 2022 [[link](https://arxiv.org/pdf/2205.00757)]
 *Muhittin Sahin; Dirk Ifenthaler*  
 Springer - 2024 [[libgen](https://libgen.is/book/index.php?md5=CECBFBE79BEBA4A74EFB179AFA50A712)]
 
+## LLM For Visualization
+
+**Are LLMs ready for Visualization?**  
+*Pere-Pau Vazquez*  
+arXiv - 2024 [[arXiv](https://arxiv.org/abs/2403.06158)]
+
 
