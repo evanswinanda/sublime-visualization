@@ -100,3 +100,9 @@ Andrressen - 2023 [[link](https://a16z.com/emerging-architectures-for-llm-applic
 **The architecture of today’s LLM applications**  
 *Nicole Choi*  
 Github Blog - 2024 [[link](https://github.blog/ai-and-ml/llms/the-architecture-of-todays-llm-applications/)]
+
+## RAG FOR LLM
+
+**Retrieval-Augmented Generation for Large Language Models: A Survey**  
+*Yunfan Gao, Yun Xiong, Xinyu Gao, Kangxiang Jia, Jinliu Pan, Yuxi Bi, Yi Dai, Jiawei Sun, Meng Wang, Haofen Wang*  
+arXiv - 2023 [[arXiv](https://arxiv.org/abs/2312.10997)]
