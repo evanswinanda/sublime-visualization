@@ -7,6 +7,10 @@ My Self Research
 *R. Wirth, Jochen Hipp*  
 Semanticscholar - 2000 [[link](https://www.semanticscholar.org/paper/CRISP-DM%3A-Towards-a-Standard-Process-Model-for-Data-Wirth-Hipp/48b9293cfd4297f855867ca278f7069abc6a9c24#citing-papers)]
 
+**GenAI Lifecycle**  
+*R. Wirth, Jochen Hipp*  
+Semanticscholar - 2000 [[link](https://www.semanticscholar.org/paper/CRISP-DM%3A-Towards-a-Standard-Process-Model-for-Data-Wirth-Hipp/48b9293cfd4297f855867ca278f7069abc6a9c24#citing-papers)]
+
 **a visual guide to CRISP-DM methodology**  
 *Nicole Leaper*  Exde - 2009 [[link](https://exde.wordpress.com/wp-content/uploads/2009/03/crisp_visualguide.pdf)]
 *Nick Hotz*  Data Science - 2024 [[link](https://www.datascience-pm.com/crisp-dm-2/)]
@@ -24,6 +28,14 @@ amplitude - 2023 [[Descriptive](https://amplitude.com/explore/analytics/what-des
 
 ## Data Visualization
 
+**Designing data visualizations**  
+*Iliinsky, Noah.*  
+O'Reilly - 2011 [[libgen](https://libgen.rs/book/index.php?md5=73C77D5945E0E3733DEF13672305CF40)]
+
+**A Review on Visualization Recommendation Strategies**  
+*Pawandeep Kaur and Michael Owonibi*  
+SCITEPRESS - 2017 [[link](https://www.researchgate.net/publication/314242925_A_Review_on_Visualization_Recommendation_Strategies)]
+
 **Interactive Visual Data Analysis**  
 *Christian Tominski and Heidrun Schumann*  
 A K Peters - 2020 [[libgen](https://libgen.rs/book/index.php?md5=F9A644E48831A356F697240145C585C2)]
@@ -31,6 +43,8 @@ A K Peters - 2020 [[libgen](https://libgen.rs/book/index.php?md5=F9A644E48831A35
 **Data Visualization: Exploring and Explaining with Data**  
 *Jeffrey D. Camm , James J. Cochran and Michael J. Fry*  
 Cengage Learning - 2022 [[libgen](https://libgen.rs/book/index.php?md5=F0BBF0673433EC635B450C3F2DA2C7B5)]
+
+
 
 ## Dashboard
 
@@ -45,3 +59,9 @@ Wiley Publishing - 2009 [[libgen](https://libgen.rs/book/index.php?md5=6A0B98555
 **Different types of dashboards: Operational, analytical, and strategic**  
 *Rao, Jaganadha*  
 ezdatamunch - 2022 [[link](https://ezdatamunch.com/operational-analytical-tactical-dashboards/)]
+
+**Dashboard Design Patterns**  
+*Benjamin Bach and Euan Freeman and Alfie Abdul-Rahman and Cagatay Turkay and Saiful Khan and Yulei Fan and Min Chen*  
+arXiv - 2022 [[link](https://arxiv.org/pdf/2205.00757)]
+
+
