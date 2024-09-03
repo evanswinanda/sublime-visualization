@@ -3,17 +3,15 @@ My Self Research
 
 ## Method and Framework
 
-**CRISP-DM: Towards a Standard Process Model for Data Mining**  
-*R. Wirth, Jochen Hipp*  
-Semanticscholar - 2000 [[link](https://www.semanticscholar.org/paper/CRISP-DM%3A-Towards-a-Standard-Process-Model-for-Data-Wirth-Hipp/48b9293cfd4297f855867ca278f7069abc6a9c24#citing-papers)]
-
-**GenAI Lifecycle**  
-*Jacinth Paul*  
-Program Strategy - 2024 [[link](https://www.programstrategyhq.com/post/generative-ai-project-lifecycle-stages)]
-
-**a visual guide to CRISP-DM methodology**  
+**CRISP-DM: Standard Process Model for Data Mining**  
+*R. Wirth, Jochen Hipp*  Semanticscholar - 2000 [[link](https://www.semanticscholar.org/paper/CRISP-DM%3A-Towards-a-Standard-Process-Model-for-Data-Wirth-Hipp/48b9293cfd4297f855867ca278f7069abc6a9c24#citing-papers)]
 *Nicole Leaper*  Exde - 2009 [[link](https://exde.wordpress.com/wp-content/uploads/2009/03/crisp_visualguide.pdf)]
 *Nick Hotz*  Data Science - 2024 [[link](https://www.datascience-pm.com/crisp-dm-2/)]
+
+**GenAI Lifecycle**  
+*Ali Arsanjani*  Medium - 2023 [[link](https://dr-arsanjani.medium.com/the-generative-ai-life-cycle-fb2271a70349)]
+*Jacinth Paul*  Program Strategy - 2024 [[link](https://www.programstrategyhq.com/post/generative-ai-project-lifecycle-stages)]
+
 
 ## Data Analytics
 
