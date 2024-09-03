@@ -76,4 +76,8 @@ ezdatamunch - 2022 [[link](https://ezdatamunch.com/operational-analytical-tactic
 *Benjamin Bach and Euan Freeman and Alfie Abdul-Rahman and Cagatay Turkay and Saiful Khan and Yulei Fan and Min Chen*  
 arXiv - 2022 [[link](https://arxiv.org/pdf/2205.00757)]
 
+**Visualizations and Dashboards for Learning Analytics (Advances in Analytics for Learning and Teaching)**  
+*Muhittin Sahin; Dirk Ifenthaler*  
+Springer - 2024 [[libgen](https://libgen.is/book/index.php?md5=CECBFBE79BEBA4A74EFB179AFA50A712)]
+
 
