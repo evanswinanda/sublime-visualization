@@ -87,3 +87,9 @@ Springer - 2024 [[libgen](https://libgen.is/book/index.php?md5=CECBFBE79BEBA4A74
 arXiv - 2024 [[arXiv](https://arxiv.org/abs/2403.06158)]
 
 
+## LLM
+
+**Are LLMs ready for Visualization?**  
+*Pere-Pau Vazquez*  
+arXiv - 2024 [[arXiv](https://arxiv.org/abs/2403.06158)]
+
